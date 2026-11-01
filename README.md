@@ -2,7 +2,6 @@
 
 ## Recent activity
 <!--START_SECTION:activity-->
-Refresh this section.
 1. 📝 Committed to e3-mario in [Tri-25/activity-log-pipeline](https://github.com/Tri-25/activity-log-pipeline/commit/71d9d6ac86619e2f01c8fcb749dcebedd14a3f17)
 2. 🎉 Created a new branch feat/e2-different-lines-a in [wi24b141/devops-A6](https://github.com/wi24b141/devops-A6/tree/feat/e2-different-lines-a)
 3. 📝 Committed to feat/e2-different-lines-b in [wi24b141/devops-A6](https://github.com/wi24b141/devops-A6/commit/f529ef90c047e3fb86f949cdfe05086a206168a1)
